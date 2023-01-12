@@ -2,11 +2,12 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# look-and-feel-custom-properties
 
+Ik heb hier de custom properties in mijn CSS gebruikt:
 
-## Licentie
+https://github.com/amirdev98/fix-the-flow-interactive-website/blob/main/styles/styles.css#L5-L24
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+Hier heb ik media-queries gebruikt:
 
-This work is licensed under [GNU GPLv3](./LICENSE).
+https://github.com/amirdev98/fix-the-flow-interactive-website/blob/main/styles/styles.css#L158
